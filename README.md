@@ -1,6 +1,6 @@
 # Running Assembly Programs with NASM on Linux
 
-# Requirements
+## Requirements
 Ensure you are using a Linux-based operating system to execute these programs.
 
 ## Compiling and Running with NASM
@@ -44,3 +44,4 @@ Ensure you are using a Linux-based operating system to execute these programs.
    Greetings from .text!
    ```
 
+This guide helps in compiling and running NASM assembly programs efficiently on a Linux system.
